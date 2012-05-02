@@ -1,5 +1,5 @@
 # Introduction
-EVEmu modified to support the latest Crucible client v353549
+EVEmu modified to support the latest Escalation to Inferno client v365966
 
 # Disclaimer
 
@@ -11,12 +11,12 @@ and we do not support that. We are not responsible for what others
 do with the source code downloaded from this project.
 
 # Status
-- Login works again
-- Character selection and creation is working
-- Character portraits are working
-- Undocking and Docking is not working
-- Items and Ships display in station
-- Destiny are not sure
+- Login still works!
+- Character selection and creation is still working
+- Character portraits are still working
+- Undocking is not working, but docking is still working
+- Items and Ships still display in station
+- Destiny is still nearly fully functional if you are undocked
 
 # Legal
     ------------------------------------------------------------------------------------
